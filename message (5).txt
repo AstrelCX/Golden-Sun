@@ -1,0 +1,367 @@
+Let's integrate the additional information into the stat sheets for the summons, expanding on the base damage, HP multiplier, and power boost based on the number of Djinn required to summon each entity. The following details are adapted for D&D, with the concepts of base damage, HP multiplier, and power boost integrated into the spell effects.
+
+### **1. Venus Djinn Summons**
+
+#### **Venus (Earth Summon)**
+
+**Description:**  
+Venus, the elemental embodiment of Earth, is summoned as a towering, living statue of stone, imbued with the very essence of the planet. It strikes the ground with a mighty fist, sending shockwaves through the earth and causing tremors that disorient and damage foes.
+
+**D&D Stat Sheet:**
+- **Name:** *Venus*
+- **Level:** 6th-level Legendary Conjuration
+- **Djinn Required:** 1 Venus Djinn
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a piece of granite and an iron rod)
+- **Duration:** Instantaneous
+
+**Effect:**
+Venus slams into the ground at a point within range, creating a shockwave in a 20-foot-radius sphere. Each creature in the area must make a Constitution saving throw. On a failed save, a creature takes 30 (6d6) bludgeoning damage and is knocked prone. On a successful save, a creature takes half damage and is not knocked prone.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 3% of their maximum HP.
+- **Power Boost:** The summoner’s Strength score increases by 2 for the next 10 minutes.
+
+---
+
+#### **Ramses (Earth Summon)**
+
+**Description:**  
+Ramses, the ancient pharaoh, rises from beneath the sands, his colossal figure encased in armor and wielding the power of the desert. He slams his golden staff into the ground, causing pillars of earth to erupt, trapping and crushing enemies.
+
+**D&D Stat Sheet:**
+- **Name:** *Ramses*
+- **Level:** 7th-level Legendary Conjuration
+- **Djinn Required:** 2 Venus Djinn
+- **Casting Time:** 1 action
+- **Range:** 90 feet
+- **Components:** V, S, M (a gold-plated staff and a sandstone tablet)
+- **Duration:** Instantaneous
+
+**Effect:**
+Ramses causes the earth to surge up in a 30-foot-radius area within range. Each creature in the area must make a Dexterity saving throw. On a failed save, a creature takes 60 (12d6) bludgeoning damage and is restrained as the earth entombs them. On a successful save, a creature takes half damage and is not restrained.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 6% of their maximum HP.
+- **Power Boost:** The summoner’s Constitution score increases by 2 for the next 10 minutes.
+
+---
+
+#### **Cybele (Earth Summon)**
+
+**Description:**  
+Cybele, the ancient spirit of nature, manifests as a massive, ivy-covered beast. It charges through the battlefield, trampling foes beneath its massive hooves and entangling them in vines that sprout from the ground.
+
+**D&D Stat Sheet:**
+- **Name:** *Cybele*
+- **Level:** 8th-level Legendary Conjuration
+- **Djinn Required:** 3 Venus Djinn
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S, M (an oak leaf and a druidic totem)
+- **Duration:** Instantaneous
+
+**Effect:**
+Cybele charges through a line 60 feet long and 15 feet wide. Each creature in this line must make a Strength saving throw. On a failed save, a creature takes 120 (24d6) bludgeoning damage and is knocked prone and restrained by vines. On a successful save, a creature takes half damage and is only knocked prone.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 9% of their maximum HP.
+- **Power Boost:** The summoner’s Wisdom score increases by 2 for the next 10 minutes.
+
+---
+
+#### **Judgement (Earth Summon)**
+
+**Description:**  
+Judgement is the ultimate embodiment of earth's might, taking the form of a celestial warrior clad in golden armor. He emerges from the earth to deliver a devastating blow with his immense sword, cleaving through foes with unstoppable force.
+
+**D&D Stat Sheet:**
+- **Name:** *Judgement*
+- **Level:** 9th-level Legendary Conjuration
+- **Djinn Required:** 4 Venus Djinn
+- **Casting Time:** 1 action
+- **Range:** 150 feet
+- **Components:** V, S, M (a shard of gold and a sacred relic of earth)
+- **Duration:** Instantaneous
+
+**Effect:**
+Judgement strikes with his sword, creating a 60-foot-radius shockwave. Each creature in the area must make a Constitution saving throw. On a failed save, a creature takes 240 (48d6) radiant and bludgeoning damage and is knocked prone. On a successful save, a creature takes half damage and is not knocked prone.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 12% of their maximum HP.
+- **Power Boost:** The summoner’s Strength and Constitution scores each increase by 4 for the next 10 minutes.
+
+---
+
+### **2. Mars Djinn Summons**
+
+#### **Mars (Fire Summon)**
+
+**Description:**  
+Mars, the fiery elemental, is summoned as a massive lion engulfed in flames. It pounces upon enemies, leaving a trail of searing heat and molten rock in its wake.
+
+**D&D Stat Sheet:**
+- **Name:** *Mars*
+- **Level:** 6th-level Legendary Evocation
+- **Djinn Required:** 1 Mars Djinn
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a ruby worth 500 gp and a drop of dragon's blood)
+- **Duration:** Instantaneous
+
+**Effect:**
+Mars charges at a target within range, dealing 30 (6d6) fire damage to all creatures in a 15-foot line. Each creature must make a Dexterity saving throw. On a failed save, a creature takes full damage and is burned, taking 2d6 fire damage at the start of each of its turns for 1 minute. On a successful save, a creature takes half damage and is not burned.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 3% of their maximum HP.
+- **Power Boost:** The summoner’s Dexterity score increases by 2 for the next 10 minutes.
+
+---
+
+#### **Kirin (Fire Summon)**
+
+**Description:**  
+Kirin, the fiery unicorn of myth, appears with a mane of flames and a horn that glows with intense heat. It gallops across the battlefield, releasing bursts of fire in its wake.
+
+**D&D Stat Sheet:**
+- **Name:** *Kirin*
+- **Level:** 7th-level Legendary Evocation
+- **Djinn Required:** 2 Mars Djinn
+- **Casting Time:** 1 action
+- **Range:** 90 feet
+- **Components:** V, S, M (a flaming mane and a phoenix feather)
+- **Duration:** Instantaneous
+
+**Effect:**
+Kirin charges forward, releasing a burst of fire in a 30-foot cone. Each creature in the area must make a Dexterity saving throw. On a failed save, a creature takes 60 (12d6) fire damage and is blinded for 1 minute. On a successful save, a creature takes half damage and is not blinded.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 6% of their maximum HP.
+- **Power Boost:** The summoner’s Charisma score increases by 2 for the next 10 minutes.
+
+---
+
+#### **Tiamat (Fire Summon)**
+
+**Description:**  
+Tiamat, the fearsome multi-headed dragon, is summoned in a blaze of fire and fury. Each of her heads unleashes a torrent of flames, scorching all who dare to stand in her path.
+
+**D&D Stat Sheet:**
+- **Name:** *Tiamat*
+- **Level:** 8th-level Legendary Evocation
+- **Djinn Required:** 3 Mars Djinn
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S, M (a dragon's scale and a vial of dragonfire)
+- **Duration:** Instantaneous
+
+**Effect:**
+Tiamat breathes fire in three 30-foot cones, each directed at different targets. Each creature in a cone must make a Dexterity saving throw. On a failed save, a creature takes 120 (24d6) fire damage and is knocked prone. On a successful save, a creature takes half damage and is not knocked prone.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 9% of their maximum HP.
+- **Power Boost:** The summoner’s Constitution and Strength scores each increase by 2 for the next 10 minutes.
+
+---
+
+#### **Meteor (Fire Summon)**
+
+**Description:**  
+Meteor summons a devastating rain of fiery meteors from the heavens, obliterating all in a massive explosion of fire and brimstone.
+
+**D&D Stat Sheet:**
+- **Name:** *Meteor*
+- **Level:** 9th-level Legendary Evocation
+- **Djinn Required:** 4 Mars Djinn
+-
+
+ **Casting Time:** 1 action
+- **Range:** 150 feet
+- **Components:** V, S, M (a fragment of meteorite and a ruby worth at least 1,000 gp)
+- **Duration:** Instantaneous
+
+**Effect:**
+Meteor strikes a point within range, causing a massive explosion in a 40-foot-radius sphere. Each creature in the area must make a Dexterity saving throw. On a failed save, a creature takes 240 (48d6) fire and force damage. On a successful save, a creature takes half damage.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 12% of their maximum HP.
+- **Power Boost:** The summoner’s Charisma and Intelligence scores each increase by 4 for the next 10 minutes.
+
+---
+
+### **3. Jupiter Djinn Summons**
+
+#### **Jupiter (Wind Summon)**
+
+**Description:**  
+Jupiter, the embodiment of wind, is a storm incarnate. It appears as a swirling vortex of wind and lightning, tearing through enemies with sheer force and electrifying gales.
+
+**D&D Stat Sheet:**
+- **Name:** *Jupiter*
+- **Level:** 6th-level Legendary Evocation
+- **Djinn Required:** 1 Jupiter Djinn
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a feather from a storm bird and a charged crystal)
+- **Duration:** Instantaneous
+
+**Effect:**
+Jupiter strikes with a bolt of lightning in a 15-foot line. Each creature in the line must make a Dexterity saving throw. On a failed save, a creature takes 30 (6d6) lightning damage and is pushed 10 feet back. On a successful save, a creature takes half damage and is not pushed.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 3% of their maximum HP.
+- **Power Boost:** The summoner’s Dexterity score increases by 2 for the next 10 minutes.
+
+---
+
+#### **Atalanta (Wind Summon)**
+
+**Description:**  
+Atalanta, the swift huntress, appears as a woman cloaked in winds, with a bow that fires arrows of pure lightning. Her arrows strike true, moving faster than the eye can see.
+
+**D&D Stat Sheet:**
+- **Name:** *Atalanta*
+- **Level:** 7th-level Legendary Evocation
+- **Djinn Required:** 2 Jupiter Djinn
+- **Casting Time:** 1 action
+- **Range:** 90 feet
+- **Components:** V, S, M (a bowstring made of wind and a quiver of arrows made of lightning)
+- **Duration:** Instantaneous
+
+**Effect:**
+Atalanta fires a volley of lightning arrows in a 30-foot-radius sphere. Each creature in the area must make a Dexterity saving throw. On a failed save, a creature takes 60 (12d6) lightning damage and is stunned until the end of its next turn. On a successful save, a creature takes half damage and is not stunned.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 6% of their maximum HP.
+- **Power Boost:** The summoner’s Dexterity and Wisdom scores each increase by 2 for the next 10 minutes.
+
+---
+
+#### **Procne (Wind Summon)**
+
+**Description:**  
+Procne, the vengeful bird of myth, descends from the skies in a flurry of razor-sharp feathers. The winds obey her every command, slicing through enemies with lethal precision.
+
+**D&D Stat Sheet:**
+- **Name:** *Procne*
+- **Level:** 8th-level Legendary Evocation
+- **Djinn Required:** 3 Jupiter Djinn
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S, M (a feather of a storm bird and a shard of obsidian)
+- **Duration:** Instantaneous
+
+**Effect:**
+Procne releases a storm of feathers in a 60-foot cone. Each creature in the area must make a Dexterity saving throw. On a failed save, a creature takes 120 (24d6) slashing damage and is blinded for 1 minute. On a successful save, a creature takes half damage and is not blinded.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 9% of their maximum HP.
+- **Power Boost:** The summoner’s Dexterity and Constitution scores each increase by 2 for the next 10 minutes.
+
+---
+
+#### **Thor (Wind Summon)**
+
+**Description:**  
+Thor, the thunder god, appears with a storm cloud as his steed, wielding a massive hammer charged with the power of lightning. He descends from the heavens to unleash his wrath upon the battlefield.
+
+**D&D Stat Sheet:**
+- **Name:** *Thor*
+- **Level:** 9th-level Legendary Evocation
+- **Djinn Required:** 4 Jupiter Djinn
+- **Casting Time:** 1 action
+- **Range:** 150 feet
+- **Components:** V, S, M (a piece of storm cloud and a hammer forged in lightning)
+- **Duration:** Instantaneous
+
+**Effect:**
+Thor hurls his hammer, creating three 30-foot-radius lightning explosions. Each creature in the area must make a Constitution saving throw. On a failed save, a creature takes 240 (48d6) lightning and thunder damage and is stunned until the end of its next turn. On a successful save, a creature takes half damage and is not stunned.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 12% of their maximum HP.
+- **Power Boost:** The summoner’s Constitution and Strength scores each increase by 4 for the next 10 minutes.
+
+---
+
+### **4. Mercury Djinn Summons**
+
+#### **Mercury (Water/Ice Summon)**
+
+**Description:**  
+Mercury, the embodiment of water and ice, is summoned as a liquid serpent. It lashes out at enemies with icy tendrils, freezing everything it touches.
+
+**D&D Stat Sheet:**
+- **Name:** *Mercury*
+- **Level:** 6th-level Legendary Conjuration
+- **Djinn Required:** 1 Mercury Djinn
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a vial of pure water and a shard of ice)
+- **Duration:** Instantaneous
+
+**Effect:**
+Mercury releases a 15-foot-radius blast of icy water. Each creature in the area must make a Constitution saving throw. On a failed save, a creature takes 30 (6d6) cold damage and is frozen, becoming restrained for 1 minute. On a successful save, a creature takes half damage and is not restrained.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 3% of their maximum HP.
+- **Power Boost:** The summoner’s Wisdom score increases by 2 for the next 10 minutes.
+
+---
+
+#### **Nereid (Water/Ice Summon)**
+
+**Description:**  
+Nereid, the water nymph, rises from the depths, surrounded by a swirling vortex of water. She commands the waves to crash down upon her enemies, drowning them in a torrent of icy water.
+
+**D&D Stat Sheet:**
+- **Name:** *Nereid*
+- **Level:** 7th-level Legendary Conjuration
+- **Djinn Required:** 2 Mercury Djinn
+- **Casting Time:** 1 action
+- **Range:** 90 feet
+- **Components:** V, S, M (a conch shell and a vial of ocean water)
+- **Duration:** Instantaneous
+
+**Effect:**
+Nereid summons a wave that crashes down in a 30-foot-radius area. Each creature in the area must make a Strength saving throw. On a failed save, a creature takes 60 (12d6) cold damage and is knocked prone and restrained by icy water. On a successful save, a creature takes half damage and is not knocked prone or restrained.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 6% of their maximum HP.
+- **Power Boost:** The summoner’s Wisdom and Dexterity scores each increase by 2 for the next 10 minutes.
+
+---
+
+#### **Neptune (Water/Ice Summon)**
+
+**Description:**  
+Neptune, the god of the sea, emerges from the ocean depths wielding a trident of pure ice. He commands the waters to rise, encasing his foes in icy prisons and sending them to a watery grave.
+
+**D&D Stat Sheet:**
+- **Name:** *Neptune*
+- **Level:** 8th-level Legendary Conjuration
+- **Djinn Required:** 3 Mercury Djinn
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S, M (a piece of coral and a shard of ice)
+- **Duration:** Instantaneous
+
+**Effect:**
+Neptune releases a torrent of water in a 60-foot cone. Each creature in the area must make a Constitution saving throw. On a failed save, a creature takes 120 (24d6) cold damage and is paralyzed for 1 minute. On a successful save, a creature takes half damage and is not paralyzed.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 9% of their maximum HP.
+- **Power Boost:** The summoner’s Constitution and Strength scores each increase by 2 for the next 10 minutes.
+
+---
+
+#### **Boreas (Water/Ice Summon)**
+
+**Description:**  
+Boreas, the north wind,
+
+ descends upon the battlefield as a colossal storm of ice and snow. His breath freezes everything in its path, leaving a frozen wasteland in his wake.
+
+**D&D Stat Sheet:**
+- **Name:** *Boreas*
+- **Level:** 9th-level Legendary Conjuration
+- **Djinn Required:** 4 Mercury Djinn
+- **Casting Time:** 1 action
+- **Range:** 150 feet
+- **Components:** V, S, M (a shard of ice and a vial of northern wind)
+- **Duration:** Instantaneous
+
+**Effect:**
+Boreas exhales a freezing blast in a 40-foot-radius sphere. Each creature in the area must make a Constitution saving throw. On a failed save, a creature takes 240 (48d6) cold damage and is frozen solid, becoming petrified for 1 minute. On a successful save, a creature takes half damage and is not petrified.
+
+- **HP Multiplier:** The summoner gains temporary HP equal to 12% of their maximum HP.
+- **Power Boost:** The summoner’s Wisdom and Constitution scores each increase by 4 for the next 10 minutes.
+
+---
+
+These integrated stat sheets adapt the legendary summons from the *Golden Sun* universe into the *D&D* system, offering a powerful and flavorful way to incorporate Djinn and their respective elemental forces into a campaign.

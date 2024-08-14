@@ -1,0 +1,122 @@
+### **Saturos and Menardi as Level 12 D&D Characters**
+
+---
+
+### **Saturos**
+
+**Race**: Fire Genasi  
+**Class**: Eldritch Knight (Fighter) 12  
+**Background**: Soldier  
+**Alignment**: Lawful Evil
+
+#### **Ability Scores**
+- **Strength**: 18 (+4)
+- **Dexterity**: 14 (+2)
+- **Constitution**: 16 (+3)
+- **Intelligence**: 14 (+2)
+- **Wisdom**: 10 (+0)
+- **Charisma**: 12 (+1)
+
+#### **Proficiencies**
+- **Saving Throws**: Strength, Constitution
+- **Skills**: Athletics, Intimidation, Insight, Perception
+- **Armor**: All armor, shields
+- **Weapons**: Simple weapons, martial weapons
+- **Tools**: Playing cards
+
+#### **Features**
+- **Fighter Features**:
+  - **Fighting Style**: Great Weapon Fighting
+  - **Second Wind**: Regain hit points equal to 1d10 + Fighter level.
+  - **Action Surge**: Take one additional action on your turn (2 uses).
+  - **Extra Attack**: Attack three times whenever you take the Attack action.
+  - **Indomitable**: Reroll a failed saving throw once per long rest.
+  - **Eldritch Knight Features**:
+    - **Weapon Bond**: Saturos can summon his weapon as a bonus action if it’s within 60 feet.
+    - **War Magic**: When Saturos uses his action to cast a cantrip, he can make one weapon attack as a bonus action.
+    - **Eldritch Strike**: When Saturos hits a creature with a weapon attack, that creature has disadvantage on the next saving throw it makes against a spell Saturos casts before the end of his next turn.
+  
+- **Fire Genasi Racial Traits**:
+  - **Darkvision**: 60 feet.
+  - **Fire Resistance**: Resistance to fire damage.
+  - **Reach to the Blaze**: Cast *Produce Flame* as a cantrip and *Burning Hands* once per long rest.
+
+#### **Spells** (Intelligence Modifier +2, Spell Save DC 14)
+- **Cantrips**: *Fire Bolt*, *Green-Flame Blade*
+- **1st Level**: *Shield*, *Absorb Elements*, *Mage Armor*
+- **2nd Level**: *Mirror Image*, *Scorching Ray*
+- **3rd Level**: *Counterspell*, *Fireball*
+
+#### **Equipment**
+- **Weapon**: **Flamebrand** (a +2 greatsword that deals an additional 1d6 fire damage on a hit)
+- **Armor**: Plate Armor
+- **Other Gear**: Cloak of Protection, Potion of Fire Resistance
+
+#### **Tactics**
+Saturos excels in both melee combat and the use of offensive fire magic. He uses his **Action Surge** to devastate enemies with multiple attacks, and he relies on his **War Magic** to seamlessly blend swordplay with his spellcasting. His **Flamebrand** and **Fireball** spell are his signature moves, allowing him to dominate the battlefield with fiery destruction.
+
+---
+
+### **Menardi**
+
+**Race**: Fire Genasi  
+**Class**: Warlock (Hexblade) 12  
+**Background**: Outlander  
+**Alignment**: Chaotic Evil
+
+#### **Ability Scores**
+- **Strength**: 14 (+2)
+- **Dexterity**: 16 (+3)
+- **Constitution**: 14 (+2)
+- **Intelligence**: 10 (+0)
+- **Wisdom**: 12 (+1)
+- **Charisma**: 18 (+4)
+
+#### **Proficiencies**
+- **Saving Throws**: Wisdom, Charisma
+- **Skills**: Arcana, Athletics, Survival, Deception
+- **Armor**: Light armor, medium armor, shields
+- **Weapons**: Simple weapons, martial weapons
+- **Tools**: Herbalism kit
+
+#### **Features**
+- **Warlock Features**:
+  - **Pact of the Blade**: Menardi can create a magical weapon as her pact weapon, which she can summon to her hand as a bonus action.
+  - **Hexblade's Curse**: Once per short rest, choose a creature you can see within 30 feet to curse. You gain bonus damage, critical hits on 19 or 20, and regain hit points if it dies.
+  - **Eldritch Invocations**:
+    - **Thirsting Blade**: Attack twice with your pact weapon.
+    - **Lifedrinker**: Add Charisma modifier to damage with pact weapon.
+    - **Agonizing Blast**: Add Charisma modifier to damage with *Eldritch Blast*.
+    - **Fiendish Vigor**: Cast *False Life* at will.
+    - **Devil's Sight**: See normally in darkness, both magical and non-magical, up to 120 feet.
+  - **Misty Escape**: Once per short rest, when you take damage, you can use your reaction to turn invisible and teleport up to 60 feet.
+  - **Armor of Hexes**: If the target cursed by your Hexblade's Curse hits you with an attack roll, roll a d6. On a 4 or higher, the attack instead misses you.
+  - **Master of Hexes**: You can apply your Hexblade’s Curse to another creature if the one it is currently affecting dies.
+
+#### **Spells** (Charisma Modifier +4, Spell Save DC 16)
+- **Cantrips**: *Eldritch Blast*, *Green-Flame Blade*
+- **1st Level**: *Hex*, *Armor of Agathys*
+- **2nd Level**: *Mirror Image*, *Hold Person*
+- **3rd Level**: *Counterspell*, *Fear*
+- **4th Level**: *Banishment*
+- **5th Level**: *Cone of Cold*
+
+#### **Equipment**
+- **Weapon**: **Hellfire Daggers** (a pair of +2 daggers that deal an additional 1d4 fire damage each, and ignite the target on a critical hit for an additional 2d6 fire damage per turn)
+- **Armor**: Breastplate
+- **Other Gear**: Ring of Evasion, Wand of the War Mage +2
+
+#### **Tactics**
+Menardi excels at close combat with her **Hellfire Daggers**, combining her physical attacks with devastating spells like **Cone of Cold** and **Fear**. She uses her **Hexblade's Curse** and **Armor of Hexes** to make her a formidable opponent, while **Misty Escape** allows her to retreat and reposition if necessary. Her **Eldritch Blast** with **Agonizing Blast** ensures she can deal significant damage from range if needed.
+
+---
+
+**Roleplaying Tips**
+- **Saturos** is the stoic, strategic leader, focusing on the long-term goals of the party. He often makes calculated decisions, prioritizing the mission above all else.
+- **Menardi** is more passionate and impulsive, driven by her emotions and desires. She is quick to anger and enjoys dominating those she perceives as weaker.
+
+**In Combat**
+- **Saturos** charges into the fray, using his **Flamebrand** and **Action Surge** to strike down his enemies while supporting himself with spells like **Shield** and **Mirror Image**.
+- **Menardi** uses her **Hexblade's Curse** and **Pact of the Blade** to focus on a single target, overwhelming them with a combination of powerful spells and her deadly daggers. She is also quick to use **Misty Escape** to evade damage and **Cone of Cold** to decimate groups of foes.
+
+These characters bring their intense and fiery personalities into a D&D campaign, creating memorable encounters for any adventuring party.
