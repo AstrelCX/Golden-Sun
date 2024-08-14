@@ -1,6 +1,3 @@
-### Djinn Description and Location Guide for a D&D Setting Inspired by *Golden Sun*
-
----
 
 #### **Venus Djinn**
 
@@ -157,15 +154,5 @@
    - **Location:** Suhalla Gate
    - **Description:** Dew is a gentle, shimmering Djinn, resembling morning dew drops. He embodies renewal and purity.
    - **How to Obtain:** Dew is found at the Suhalla Gate, at the border between two worlds. The party must solve a puzzle involving light and water to obtain him. Dew grants the ability to restore a significant amount of health to the party.
-
----
-
-### Star Rankings
-- The "Star" rankings indicate the number of Djinn in each category required to achieve certain levels of power, as they might influence class abilities or spell levels in a D&D campaign.
-
-1. **Venus 2-Star**: After acquiring two Venus Djinn, the character gains enhanced earth-based abilities, such as increased physical defense or earth manipulation spells.
-2. **Mars 3-Star**: With three Mars Djinn, the character gains access to powerful fire-based spells or abilities, such as fireball or flame shield.
-3. **Jupiter 4-Star**: Four Jupiter Djinn grant the character heightened speed and evasion, along with wind-based magic like lightning strikes or tornadoes.
-4. **Mercury 6-Star**: Six Mercury Djinn allow the character to access powerful water-based healing and support magic, such as mass healing or water shield.
 
 These descriptions and guidelines should help in integrating the Djinn system into a D&D setting, providing unique abilities and challenges for players to explore as they gather these mystical creatures.
